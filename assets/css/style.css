@@ -459,7 +459,7 @@ section {
 }
 @media (max-width: 991px) {
   .about .image {
-    text-align: center;
+    text-align: justify;
   }
   .about .image img {
     max-width: 80%;
