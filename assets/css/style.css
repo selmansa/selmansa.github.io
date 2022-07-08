@@ -457,9 +457,9 @@ section {
   background-size: cover;
   min-height: 400px;
 }
-@media (max-width: 991px) {
+@media (max-width: 1080px) {
   .about .image {
-    text-align: justify;
+    text-align: center;
   }
   .about .image img {
     max-width: 80%;
