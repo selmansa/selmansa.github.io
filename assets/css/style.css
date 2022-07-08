@@ -403,7 +403,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about .content {
-  padding: 30px 0;
+  padding: 30px 20px;
 }
 .about .content h3 {
   font-weight: 500;
@@ -457,7 +457,7 @@ section {
   background-size: cover;
   min-height: 400px;
 }
-@media (max-width: 1080px) {
+@media (max-width: 991px) {
   .about .image {
     text-align: center;
   }
